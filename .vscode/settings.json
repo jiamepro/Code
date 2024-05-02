@@ -1,0 +1,23 @@
+{
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "stdio.h": "c",
+        "random": "c",
+        "limits": "c",
+        "array": "c",
+        "*.tcc": "c",
+        "concepts": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "memory": "c",
+        "optional": "c",
+        "string_view": "c",
+        "istream": "c",
+        "ostream": "c",
+        "streambuf": "c",
+        "functional": "c",
+        "tuple": "c",
+        "iostream": "cpp",
+        "cmath": "cpp"
+    }
+}
