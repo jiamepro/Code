@@ -1,0 +1,13 @@
+{
+    "cmake.configureOnOpen": true,
+    "files.associations": {
+        "iosfwd": "cpp",
+        "ostream": "cpp",
+        "algorithm": "cpp",
+        "*.tcc": "cpp",
+        "iostream": "cpp",
+        "random": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp"
+    }
+}
